@@ -119,7 +119,7 @@ The dashboard accepts patient vitals as input and returns a predicted acuity lev
 
 - Trained on data from a single U.S. academic medical center (Beth Israel Deaconess, Boston). Generalizability to other hospital systems and patient populations is not established.
 - The model is intended as a decision-support tool. Clinical judgment must remain primary.
-- 14% precision on critical predictions means roughly 6 in 7 patients flagged as critical will not be — acceptable for safety but would require careful workflow integration to avoid alert fatigue.
+- 14% precision on critical predictions means roughly 6 in 7 patients flagged as critical will not be, acceptable for safety but would require careful workflow integration to avoid alert fatigue.
 
 ---
 
