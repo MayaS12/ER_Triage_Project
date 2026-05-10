@@ -10,7 +10,7 @@ An XGBoost-based triage system that predicts patient acuity levels (1–5) from 
 
 ER overcrowding affects up to 90% of large hospitals globally. Manual triage is subject to fatigue and bias, with mis-triage rates reaching 20–30%. Every minute of delay in critical cases increases mortality risk by 7–10%.
 
-TriageNet is designed to assist — not replace — clinical judgment, flagging high-risk patients faster and more consistently.
+TriageNet is designed to assist, not replace, clinical judgment, flagging high-risk patients faster and more consistently.
 
 ---
 
